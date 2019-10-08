@@ -6,6 +6,6 @@ navigate to project folder
 
 run npm install
 
-execute: Users/<USERNAME>/Library/Android/sdk/emulator/emulator -avd Pixel3 -netdelay none -netspeed full
+execute: Users/*USERNAME/Library/Android/sdk/emulator/emulator -avd Pixel3 -netdelay none -netspeed full
 
-*replace <USERNAME> with valid username
+*replace USERNAME with valid username
